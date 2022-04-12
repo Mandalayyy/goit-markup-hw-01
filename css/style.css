@@ -256,7 +256,7 @@ figcaption {
   margin-bottom: 10px;
 }
 
-figure > p {
+.team > p {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
